@@ -1,4 +1,5 @@
 //Delivery cost calculator
+console.log("Task 4: Delivery cost calculator");
 function getShippingCost(country) {
   let message = `Shipping to  ${country} will cost `;
   switch (country) {

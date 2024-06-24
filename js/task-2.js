@@ -1,5 +1,5 @@
 // String merge function
-console.log("String merge function");
+console.log("Task 2: String merge function");
 function formatMessage(message, maxLength) {
   let result;
   if (message.length <= maxLength) {

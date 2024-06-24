@@ -1,5 +1,5 @@
 //Spam control function
-console.log("Spam control function");
+console.log("Task 3: Spam control function");
 function checkForSpam(message) {
   'use strict';
   // Write code under this line

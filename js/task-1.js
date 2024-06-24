@@ -1,5 +1,5 @@
 // Transaction function
-console.log("Transaction function");
+console.log("Task 1: Transaction function");
 function makeTransaction(quantity, pricePerDroid, customerCredits) {
   const totalPrice = pricePerDroid * quantity;
   if (totalPrice > customerCredits) {
